@@ -1,7 +1,7 @@
 #  Mean and variance of a discrete  distribution
 EXP NO: 2 
  
-DATE: 27-4-26 
+DATE: 20-4-26 
  
 NAME: MANIYARASAN R 
  
