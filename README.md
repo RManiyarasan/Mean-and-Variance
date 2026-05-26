@@ -1,5 +1,5 @@
 #  Mean and variance of a discrete  distribution
-EXP NO: 2 
+EXP NO: 1 
  
 DATE: 20-4-26 
  
